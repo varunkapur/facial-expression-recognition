@@ -1,0 +1,2 @@
+# facial-expression-recognition
+I have proposed a deep convolutional neural network based facial expression recognition method  and implemented transfer learning using vgg16 in keras on our dataset.The proposed method achieves excellent results on JAFFE Dataset, indicating the considerable potential of our facial expression recognition method . Experimental results show that the proposed system using cnn showed better  validation accuracy than VGG16. The recognition rate of the system  was 90% by using CNN and 75% by using VGG16
